@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AdeenaCode/static/css/main.845c6df9.css",
+    "main.js": "/AdeenaCode/static/js/main.13819244.js",
+    "static/media/Adeena Resume.pdf": "/AdeenaCode/static/media/Adeena Resume.cd54cdf3c8763df8f8fb.pdf",
+    "static/media/adeenahussain.jpeg": "/AdeenaCode/static/media/adeenahussain.4dc6a7bb155fedeca2b2.jpeg",
+    "static/media/wave.png": "/AdeenaCode/static/media/wave.07abecdb56e27aff1ab4.png",
+    "static/media/social-media.png": "/AdeenaCode/static/media/social-media.d52a007b1dc2d59af715.png",
+    "static/media/atom.png": "/AdeenaCode/static/media/atom.c8693a9f414046d8017d.png",
+    "index.html": "/AdeenaCode/index.html",
+    "main.845c6df9.css.map": "/AdeenaCode/static/css/main.845c6df9.css.map",
+    "main.13819244.js.map": "/AdeenaCode/static/js/main.13819244.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.845c6df9.css",
+    "static/js/main.13819244.js"
+  ]
+}
