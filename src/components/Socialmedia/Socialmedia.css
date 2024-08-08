@@ -1,0 +1,22 @@
+.social{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5rem;
+    height: 30vh;
+    margin-bottom: 8rem;
+    /* darkmode */
+    color: var(--black);
+}
+.social {
+    margin-top: 2rem;
+    display: flex;
+    gap: 0rem;
+    
+  }
+  .social > * {
+    transform: scale(0.5);
+  }
+  .social > *:hover {
+    cursor: pointer;
+  }
